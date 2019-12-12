@@ -1,3 +1,7 @@
 superlists/db.sqlite3
 __pychache__
 *.pyc
+.functional_test.py.swp
+
+superlists/geckodriver.log
+geckodriver.log
